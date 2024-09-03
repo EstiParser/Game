@@ -1,6 +1,8 @@
 {
     "rewrites": [
       { "source": "/", "destination": "/start.html" },
+      { "source": "/first-group", "destination": "/first-group.html" },
+      { "source": "/play-group", "destination": "/play-group.html" },
       { "source": "/play", "destination": "/play.html" },
       { "source": "/first", "destination": "/first.html" }
     ]
